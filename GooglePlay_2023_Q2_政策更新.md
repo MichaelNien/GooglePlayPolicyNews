@@ -12,10 +12,9 @@
 
 在會議最後，還將通過問答環節，為您線上解答政策更新相關問題、了解您的實際情況，幫助您更好地適應政策變化。
 
-## 政策更新說明
+## 更新說明
 
 安全計畫最新消息：goo.gle/playsafety
-
 
 瞭解 Privacy Sandbox on Android:
 
@@ -33,19 +32,29 @@ FGS 應用功能示例：goo.gle/fgstypes
 
 JobScheduler: https://developer.android.com/reference/android/app/job/JobScheduler
 
+
+
 我們會對本次活動（問答環節除外）進行整理，並發佈在該直播平台以及官方公眾平台 "Android 開發者" 公眾號和視頻號上，敬請關注！
+
+
 
 金融服務：goo.gle/permissionsupdate
 
 個人信貸-巴基斯坦: goo.gle/pkdeclaration
 
 SDK 規定: goo.gle/sdkrequirements
+
 安全使用 SDK: goo.gle/sdksafe
+
 Play 學習中心的 SDK 最佳做法課程：g.co/playacademy/sdkbestpractices
 
 目標 API 級別規定：goo.gle/targetapi
 
 Policy Timeline： goo.gle/playupdates
+
+
+
+### 問答1
 
 正確答案
 
@@ -61,6 +70,8 @@ A. 7 月 31 日
 B. 8 月 30 日
 C. 8 月 31 日
 
+
+
 登入憑證：goo.gle/logincredentials
 
 應用程式審查準備工作：https://playacademy.exceedlms.com/student/activity/480215-make-your-app-available-for-review
@@ -68,6 +79,10 @@ C. 8 月 31 日
 欺騙行為：https://support.google.com/googleplay/android-developer/answer/9888077?hl=zh-Hant&;sjid=17122893868168866016-AP
 
 應用程式安全性提升計畫：https://developer.android.com/google/play/asi?hl=zh-tw#campaigns
+
+
+
+### 問答2
 
 正确答案
 
@@ -86,28 +101,30 @@ B. 以欺騙手段變更裝置設定
 C. 助長欺騙行為
 D. 發布經過操弄的媒體內容
 
+
+
 違規處置流程：goo.gle/enforcementprocess
 
 在特定國家/地區發行應用程式須遵守的規定：
 goo.gle/limitedregions
 
-
 內部測試群組更新：goo.gle/internaltest
 
-
 瞭解測試模式：https://android-developers.googleblog.com/2023/01/control-when-changes-to-your-app-are-sent-for-review-with-new-play-console-features.html
+
 瞭解控管型發布功能: https://playacademy.exceedlms.com/student/activity/7035?sid=d1687c0a-9d1a-418e-becd-84a3d1bcc32f&;sid_i=0
 
-
 使用者評分和評論：goo.gle/ratingsandreviews
-
 
 Play 商店中的評分與評論：goo.gle/commentpostingpolicy
 
 Google Play 評論發布政策： https://play.google.com/intl/zh-TW_hk/about/comment-posting-policy/
+
 檢舉不當評論：https://support.google.com/googleplay/android-developer/answer/7318385?hl=zh-Hant&;sjid=17122893868168866016-AP
 
 
+
+#### 問答3
 
 正确答案
 
@@ -123,6 +140,8 @@ C. 使用者是否能看到應用程式目前的商店資訊、使用者安裝�
 
 A. 正確
 B. 錯誤
+
+
 
 Google Play Academy: g.co/playacademy/policy
 
