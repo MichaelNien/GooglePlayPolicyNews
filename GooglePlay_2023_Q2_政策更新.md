@@ -56,10 +56,11 @@ Policy Timeline： goo.gle/playupdates
 
 ### 問答1
 
+```
 正確答案
 
 1. 只要應用程式的用途是提供或協助辦理個人信貸，就不得存取使用者的聯絡人或相片:
-: [A]
+   : [A]
 
 A. 正確
 B. 錯誤
@@ -69,8 +70,7 @@ B. 錯誤
 A. 7 月 31 日
 B. 8 月 30 日
 C. 8 月 31 日
-
-
+```
 
 登入憑證：goo.gle/logincredentials
 
@@ -84,6 +84,7 @@ C. 8 月 31 日
 
 ### 問答2
 
+```
 正确答案
 
 1. 关于登入憑證的正確做法有:  [ABCD]
@@ -100,8 +101,7 @@ A. 發布誤導聲明
 B. 以欺騙手段變更裝置設定
 C. 助長欺騙行為
 D. 發布經過操弄的媒體內容
-
-
+```
 
 違規處置流程：goo.gle/enforcementprocess
 
@@ -126,22 +126,20 @@ Google Play 評論發布政策： https://play.google.com/intl/zh-TW_hk/about/co
 
 #### 問答3
 
+```
 正确答案
 
 1. “曝光度受限” 狀態不影響下列項目: [BC]
-   
 
 A. 應用程式在 Google Play 的曝光
 B. Google Play 開發人員帳戶記錄
 C. 使用者是否能看到應用程式目前的商店資訊、使用者安裝次數、統計資料和評分
 
 2. 啟用控管型發布功能後，獲得核准的變更就只會在您指定的時間發布，而不是在審查及處理完畢後自動發布。[A]
-   
 
 A. 正確
 B. 錯誤
-
-
+```
 
 Google Play Academy: g.co/playacademy/policy
 
