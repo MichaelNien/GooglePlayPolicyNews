@@ -1,6 +1,11 @@
 # Google Play 2022 Q3 政策更新
 
+本次线上研讨会主要聚焦 7 月政策更新，来自 Google Play Policy 团队的专家将为大家介绍政策更新内容和深度解析，涵盖：
 
+七月政策更新
+登录凭据
+用户生成的内容
+家庭政策
 
 
 各项 Google Play 安全计划的进展：goo.gle/playprogress
