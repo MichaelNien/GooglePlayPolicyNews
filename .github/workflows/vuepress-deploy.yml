@@ -1,0 +1,34 @@
+name: Build and Deploy
+on:
+  push:
+    branches:
+      - master
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    strategy:
+        matrix:
+            node-version: [18.x]
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v3.1.0
+      
+    - name: Build
+      run: yarn && yarn docs:build
+      
+    - name: Delete branch      
+      uses: dawidd6/action-delete-branch@v3  
+      with:
+         github_token: ${{ secrets.ACCESS_TOKEN }}        
+         branches: gh-pages
+         soft_fail: true
+
+    - name: Deploy
+      uses: JamesIves/github-pages-deploy-action@4.1.9
+      with:
+        token: ${{ secrets.ACCESS_TOKEN }}
+        git-config-name: GitHub Actions
+        git-config-email: github.actions@github.com
+        BRANCH: gh-pages
+        FOLDER: docs/.vuepress/dist
+        

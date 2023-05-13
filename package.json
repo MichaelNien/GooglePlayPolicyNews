@@ -1,0 +1,16 @@
+{
+	"dependencies": {
+		"vuepress-plugin-mermaidjs": "1.9.1",
+		"vuepress-plugin-reading-progress": "1.0.9",
+		"@vuepress/plugin-nprogress": "^1.9.9",
+		"@vuepress/plugin-active-header-links": "^1.9.9",
+		"@vuepress/plugin-back-to-top": "^1.9.9",
+		"@vuepress/plugin-medium-zoom": "^1.9.9",
+		"vuepress": "^1.9.9"
+	},
+	"license":"MIT",
+	"scripts": {
+		"docs:build": "export NODE_OPTIONS=--openssl-legacy-provider; vuepress build docs",
+		"docs:dev": "export NODE_OPTIONS=--openssl-legacy-provider; vuepress dev docs"
+	}
+}
