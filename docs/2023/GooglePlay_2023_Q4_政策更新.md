@@ -43,3 +43,15 @@ Notes from Google Play：https://android-developers.googleblog.com/2023/09/notes
 Google Play 安全防護升級：https://security.googleblog.com/2023/10/enhanced-google-play-protect-real-time.html
 
 Google Play SDK 索引：https://support.google.com/googleplay/android-developer/answer/12034434?hl=zh-Hant&sjid=10945470187510502211-AP
+Google Play 減免警告計畫：https://support.google.com/googleplay/android-developer/answer/12186827
+Google Play 商店資訊：https://www.youtube.com/watch?v=djafvrL0mMA
+政策生效日：https://support.google.com/googleplay/android-developer/table/12921780?hl=zh-Hant&ref_topic=9877065&visit_id=638356343841292247-788386861&rd=2&sjid=10945470187510502211-AP
+開發學習中心：https://playacademy.exceedlms.com//student/collection/264827
+透過 PolicyBytes 系列影片宣傳最新的政策更新資訊：https://www.youtube.com/playlist?list=PLWz5rJ2EKKc_vmK_ZwtyM08GzUxKltSTp
+PolicyBytes 影片有多種語言版本：https://www.youtube.com/playlist?list=PLWz5rJ2EKKc_vmK_ZwtyM08GzUxKltSTp
+Google Play 開發人員政策中心：https://play.google.com/intl/zh-TW/about/developer-content-policy/
+Google Play Academy：https://playacademy.withgoogle.com/intl/zh-TW/
+Google Play 開發人員幫助中心：https://support.google.com/googleplay/android-developer/#topic=3450769
+Google Play 政策更新影片：https://www.youtube.com/playlist?list=PLWz5rJ2EKKc_vmK_ZwtyM08GzUxKltSTp
+開發人員期刊：https://developer.android.google.cn/newsletter?hl=zh-tw
+Android 和 Google Play 更新：https://developer.android.com/distribute/play-policies?hl=zh-tw
