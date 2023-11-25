@@ -122,3 +122,19 @@ https://developer.android.google.cn/newsletter?hl=zh-tw
 Android 和 Google Play 更新：
 
 https://developer.android.com/distribute/play-policies?hl=zh-tw
+
+驗證 Play 管理中心開發人員帳戶：
+
+https://support.google.com/googleplay/android-developer/answer/14177239?hl=zh-Hant&sjid=16546272755174787907-AP
+
+選擇透過簡訊或是語音電話方式接收驗證碼
+
+https://support.google.com/googleplay/android-developer/answer/10841920?sjid=17579178213886297391-AP#developer-information
+
+掃描左側 QR code 學習商品詳情技能：
+
+https://email-playacademy.exceedlms.com//student/path/343815 
+
+掃描二維碼進入 Google Play MIT 開發者網站：
+
+https://rsvp.withgoogle.com/events/made-in-taiwan
