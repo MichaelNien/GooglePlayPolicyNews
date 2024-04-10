@@ -16,4 +16,4 @@
 
 ## 2024
 
-[GooglePlay 2024 Q2 政策更新](docs/2024/GooglePlay_2024_Q2_政策更新.md)
+[Google Play 2024 Q2 政策更新](docs/2024/GooglePlay_2024_Q2_政策更新.md)

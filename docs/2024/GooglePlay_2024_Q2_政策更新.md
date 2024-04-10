@@ -1,1 +1,1 @@
-# GooglePlay 2024 Q2 政策更新
+# Google Play 2024 Q2 政策更新

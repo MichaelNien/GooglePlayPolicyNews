@@ -1,4 +1,4 @@
-# GooglePlay 2023 Q4 政策更新
+# Google Play 2023 Q4 政策更新
 
 活動相關訊息
 
