@@ -29,6 +29,14 @@ module.exports = {
 		  ['/2023/GooglePlay_2023_Q4_政策更新.md', 'GooglePlay 2023 Q4 政策更新'],
         ]
       },
+	  {
+        title: '2024',
+        collapsable: false,
+        sidebarDepth: 1,
+        children: [
+          ['/2024/GooglePlay_2024_Q2_政策更新.md', 'GooglePlay 2024 Q2 政策更新'],
+        ]
+      },
     ],
   }
 }

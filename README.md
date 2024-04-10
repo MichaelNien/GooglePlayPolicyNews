@@ -13,3 +13,7 @@
 [Google Play 2023 Q3 政策更新](docs/2023/GooglePlay_2023_Q3_政策更新.md)
 
 [Google Play 2023 Q4 政策更新](docs/2023/GooglePlay_2023_Q4_政策更新.md)
+
+## 2024
+
+[GooglePlay 2024 Q2 政策更新](docs/2024/GooglePlay_2024_Q2_政策更新.md)
