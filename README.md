@@ -27,3 +27,5 @@
 
 
 ## 2025
+
+[Google Play 2025 Q2 政策更新](docs/2025/GooglePlay_2025_Q2_政策更新.md)
