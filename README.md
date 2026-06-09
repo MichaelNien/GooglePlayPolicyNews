@@ -2,11 +2,21 @@
 
 
 
-## 2022
+## 2026
 
-[Google Play 2022 Q3 政策更新](docs/2022/GooglePlay_2022_Q3_政策更新.md)
+[Google Play 2026 Q2 政策更新](docs/2026/GooglePlay_2026_Q2_政策更新.md)
 
-[Google Play 2022 Q4 政策更新](docs/2022/GooglePlay_2022_Q4_政策更新.md)
+
+
+## 2025
+
+[Google Play 2025 Q2 政策更新](docs/2025/GooglePlay_2025_Q2_政策更新.md)
+
+
+
+## 2024
+
+[Google Play 2024 Q2 政策更新](docs/2024/GooglePlay_2024_Q2_政策更新.md)
 
 
 
@@ -20,12 +30,8 @@
 
 
 
-## 2024
+## 2022
 
-[Google Play 2024 Q2 政策更新](docs/2024/GooglePlay_2024_Q2_政策更新.md)
+[Google Play 2022 Q3 政策更新](docs/2022/GooglePlay_2022_Q3_政策更新.md)
 
-
-
-## 2025
-
-[Google Play 2025 Q2 政策更新](docs/2025/GooglePlay_2025_Q2_政策更新.md)
+[Google Play 2022 Q4 政策更新](docs/2022/GooglePlay_2022_Q4_政策更新.md)
