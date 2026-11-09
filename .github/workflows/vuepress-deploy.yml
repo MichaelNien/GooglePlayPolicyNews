@@ -24,7 +24,7 @@ jobs:
          soft_fail: true
 
     - name: Deploy
-      uses: JamesIves/github-pages-deploy-action@4.1.9
+      uses: JamesIves/github-pages-deploy-action@4.3.0
       with:
         token: ${{ secrets.ACCESS_TOKEN }}
         git-config-name: GitHub Actions
