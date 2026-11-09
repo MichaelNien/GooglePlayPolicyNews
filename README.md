@@ -6,6 +6,8 @@
 
 [Google Play 2026 Q2 政策更新](docs/2026/GooglePlay_2026_Q2_政策更新.md)
 
+[Google Play 2026 Q4 政策更新](docs/2026/GooglePlay_2026_Q4_政策更新.md)
+
 
 
 ## 2025

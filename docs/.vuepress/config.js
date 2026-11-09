@@ -11,12 +11,28 @@ module.exports = {
     sidebar: [
       ['/', '首頁'],
 	  {
-        title: '2022',
+        title: '2026',
         collapsable: false,
         sidebarDepth: 1,
         children: [
-          ['/2022/GooglePlay_2022_Q3_政策更新.md', 'GooglePlay 2022 Q3 政策更新'],
-		  ['/2022/GooglePlay_2022_Q4_政策更新.md', 'GooglePlay 2022 Q4 政策更新'],
+          ['/2026/GooglePlay_2026_Q2_政策更新.md', 'GooglePlay 2026 Q2 政策更新'],
+		  ['/2026/GooglePlay_2026_Q4_政策更新.md', 'GooglePlay 2026 Q4 政策更新'],
+        ]
+      },
+	  {
+        title: '2025',
+        collapsable: false,
+        sidebarDepth: 1,
+        children: [
+          ['/2025/GooglePlay_2025_Q2_政策更新.md', 'GooglePlay 2025 Q2 政策更新'],
+        ]
+      },
+	  {
+        title: '2024',
+        collapsable: false,
+        sidebarDepth: 1,
+        children: [
+          ['/2024/GooglePlay_2024_Q2_政策更新.md', 'GooglePlay 2024 Q2 政策更新'],
         ]
       },
 	  {
@@ -30,19 +46,12 @@ module.exports = {
         ]
       },
 	  {
-        title: '2024',
+        title: '2022',
         collapsable: false,
         sidebarDepth: 1,
         children: [
-          ['/2024/GooglePlay_2024_Q2_政策更新.md', 'GooglePlay 2024 Q2 政策更新'],
-        ]
-      },
-	  {
-        title: '2025',
-        collapsable: false,
-        sidebarDepth: 1,
-        children: [
-          ['/2025/GooglePlay_2025_Q2_政策更新.md', 'GooglePlay 2025 Q2 政策更新'],
+          ['/2022/GooglePlay_2022_Q3_政策更新.md', 'GooglePlay 2022 Q3 政策更新'],
+		  ['/2022/GooglePlay_2022_Q4_政策更新.md', 'GooglePlay 2022 Q4 政策更新'],
         ]
       },
     ],
