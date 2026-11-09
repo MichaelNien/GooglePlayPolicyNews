@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
         matrix:
-            node-version: [24.x]
+            node-version: [26.x]
     steps:
     - name: Checkout
       uses: actions/checkout@v3.1.0
@@ -24,7 +24,7 @@ jobs:
          soft_fail: true
 
     - name: Deploy
-      uses: JamesIves/github-pages-deploy-action@4.5.0
+      uses: JamesIves/github-pages-deploy-action@4.1.9
       with:
         token: ${{ secrets.ACCESS_TOKEN }}
         git-config-name: GitHub Actions
